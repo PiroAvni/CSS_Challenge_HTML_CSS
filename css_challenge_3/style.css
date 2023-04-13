@@ -1,0 +1,29 @@
+.nav{
+    background-color:aquamarine;
+    display:flex;
+
+}
+.nav_item{
+    list-style-type:none;
+}
+.main_section{
+    display:flex;
+    height: 50vh;
+}
+.right_section{
+    background-color:cadetblue ;
+    width: 70%;
+  
+}
+.left_section{
+    background-color:orange ;
+    width:30%;
+}
+footer{
+background-color: gray;
+height: 50px;
+display: flex;
+}
+h3{
+    margin: auto;
+}
